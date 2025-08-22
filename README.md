@@ -13,7 +13,7 @@ O Portfólio desafia o estudante a integrar:
 - Responsabilidade ética e conformidade legal;  
 - Boas práticas de Engenharia (arquitetura, testes, versionamento e documentação).  
 
-As linhas de projeto que escolhi é:  
+A linha de projeto que escolhi é:  
 - Aplicações Web   
 ---
 
